@@ -1,0 +1,1569 @@
+{
+ "xishujuzhen_math_glm52": {
+  "activation_packets": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "ai_instances": {
+   "docs": 80,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/ai_instances.part001.jsonl.gz",
+     "bytes": 9082,
+     "sha256": "652a7e068ba3048f06dc8f3cc7c3206596d12fb6746ec436fb9b86040893983b",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "analyses": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "analysis_batches": {
+   "docs": 17,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/analysis_batches.part001.jsonl.gz",
+     "bytes": 51517,
+     "sha256": "7ac1562cfc51372011ce5b361fd0802fa9950587656b81bdd6397b0bd252ffa2",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "analysis_counters": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/analysis_counters.part001.jsonl.gz",
+     "bytes": 132,
+     "sha256": "7e918f2be74217eb1b8f7bd36173dfe614ee58885d8a7e2285ec232b0124b71d",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "analysis_events": {
+   "docs": 40909,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/analysis_events.part001.jsonl.gz",
+     "bytes": 1240417,
+     "sha256": "845366cfa551ece24788bb864bab6bf509a82909edd0a115041bc580d8f7dbdb",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "analysis_results": {
+   "docs": 2050,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/analysis_results.part001.jsonl.gz",
+     "bytes": 830102,
+     "sha256": "98cc4ce5ea0b6f9a9891c05c2d3b21f78796770a4c6f1d1408a408ef3ae75cef",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "analysis_runs": {
+   "docs": 6406,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/analysis_runs.part001.jsonl.gz",
+     "bytes": 703394,
+     "sha256": "97232365f31bfd604b48c4308258c8d48d4b0d3e04710efa0e6d33085acbfc2a",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "audit_batches": {
+   "docs": 4,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/audit_batches.part001.jsonl.gz",
+     "bytes": 728,
+     "sha256": "6b62d4c0033dfb966c46ead275161338afbf419066371411cf9bb5a485bf741b",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "audit_results": {
+   "docs": 1397,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/audit_results.part001.jsonl.gz",
+     "bytes": 359163,
+     "sha256": "8ca82d9ece3e568ae21c1952754231276ad55c2cd33ffcb7ea0922fdf8494ba6",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "audit_runs": {
+   "docs": 1534,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/audit_runs.part001.jsonl.gz",
+     "bytes": 94096,
+     "sha256": "6c897cf3020c9f087d14fd63b6b7019a5e19635ef796b1a7b4d177b5d3bb19e8",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "audits": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "checkpoints": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "cog_edges": {
+   "docs": 55,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/cog_edges.part001.jsonl.gz",
+     "bytes": 1960,
+     "sha256": "2df0a9283f5ab679867ec7dcfd41eb8de4a0ea0060486e31dd4b7ea05cbfb0ed",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cog_version_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "cog_versions": {
+   "docs": 51,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/cog_versions.part001.jsonl.gz",
+     "bytes": 2846,
+     "sha256": "ccd710423aed25c5e7cae33da7b28b9d0fdbe52b2153ae5376a8d5a8d0f8e0fe",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cognition_tasks": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/cognition_tasks.part001.jsonl.gz",
+     "bytes": 676,
+     "sha256": "ef94b5eb74e2252b665414d17bb869f05e56e11068dd73eb0281e712c53c00c7",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cognition_units": {
+   "docs": 40,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/cognition_units.part001.jsonl.gz",
+     "bytes": 7082,
+     "sha256": "b32e08d5f2851dcc08eec6d3e0d3cab5bbd9f4e9b7f06e20e30a034509ad75c4",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "counters": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/counters.part001.jsonl.gz",
+     "bytes": 112,
+     "sha256": "ad3c0a17386f9bd8bec558ea8aea6a29a88a5f2676f613525a8c8be55a6050a7",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "devin_batch_runs": {
+   "docs": 27,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/devin_batch_runs.part001.jsonl.gz",
+     "bytes": 9999,
+     "sha256": "2d384f06a1e96faeb9e1f5e2850ce07efd93bdc600d04faa072c3d4292164577",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "devin_counters": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/devin_counters.part001.jsonl.gz",
+     "bytes": 125,
+     "sha256": "1b8e34eff3fe3ef3c433d7e3d1131b3b85d0b81b2384abca89c38f8c75175963",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "devin_problem_runs": {
+   "docs": 50552,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/devin_problem_runs.part001.jsonl.gz",
+     "bytes": 3237915,
+     "sha256": "91be0aaebae96bb28ed6f2af1377b485bc9e112a5984d787985b0a81d41896ea",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "devin_run_events": {
+   "docs": 4022,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/devin_run_events.part001.jsonl.gz",
+     "bytes": 159073,
+     "sha256": "c4671270c2e3fabd08313ae975277a9ed1b3ef641bfca4cbfea43a97d305d20d",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dfs_cases": {
+   "docs": 2,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/dfs_cases.part001.jsonl.gz",
+     "bytes": 2702,
+     "sha256": "84d43159b8024c031e764304b6536906b235eb04c0b54b9166260d66b14e8d4a",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dfs_decisions": {
+   "docs": 10,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/dfs_decisions.part001.jsonl.gz",
+     "bytes": 1122,
+     "sha256": "8afc5329e69cf5a2a2b991078b2b5f0dc527736a56389b577b14ee4e03f90100",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dfs_edges": {
+   "docs": 8,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/dfs_edges.part001.jsonl.gz",
+     "bytes": 287,
+     "sha256": "5579f1741fa1328b135ce5d7e7b30f93abea674fff31e748ea10b6acc2ba62f8",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dfs_nodes": {
+   "docs": 10,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/dfs_nodes.part001.jsonl.gz",
+     "bytes": 2793,
+     "sha256": "5118f138bf09062e444ad22877a09526b9b23f8c07ed3361b4e4daa4bd43d40f",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dfs_sessions": {
+   "docs": 2,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/dfs_sessions.part001.jsonl.gz",
+     "bytes": 434,
+     "sha256": "5d259131f718fde58070e1fbfe831b711423558661c29a3e7a9faead569b1da0",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dg_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "dg_nodes": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "evidence": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "heuristic_rules": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "kcs": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "loops": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "math_datasets": {
+   "docs": 10063,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_datasets.part001.jsonl.gz",
+     "bytes": 828962,
+     "sha256": "57a8ba27f1df95815f5554e57046ba9fa8b3b84ba0e59f32f612d23f3f2e3307",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "math_manify_run_records": {
+   "docs": 1299,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_manify_run_records.part001.jsonl.gz",
+     "bytes": 8119618,
+     "sha256": "8c151bbab01fc5171726e3c7bdeae9bdf3f005d6d92977e3939ce9e873746aee",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "math_manify_run_records_r073_v4_negative_20260827_001": {
+   "docs": 7,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_manify_run_records_r073_v4_negative_20260827_001.part001.jsonl.gz",
+     "bytes": 5588,
+     "sha256": "736f008bd7d7fe964889e58e5c313bfaf6962b9cfb625d17d02f3803aa2b86f0",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "math_manify_run_records_r073_v4_smoke_20260827_001": {
+   "docs": 7,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_manify_run_records_r073_v4_smoke_20260827_001.part001.jsonl.gz",
+     "bytes": 5494,
+     "sha256": "623b58b5488345cf5375845e27db6638ae5892478c7b5464bf14d17a66b087ef",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "math_manify_run_records_road048_diagnostic": {
+   "docs": 4,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_manify_run_records_road048_diagnostic.part001.jsonl.gz",
+     "bytes": 2510,
+     "sha256": "34ac4bc23595360728f55df37bb231bb82c0c8b56fa4f545c37ee01e87b04355",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "math_manify_run_records_road049_diagnostic": {
+   "docs": 4,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/math_manify_run_records_road049_diagnostic.part001.jsonl.gz",
+     "bytes": 3164,
+     "sha256": "b21a7953df677d3cc5ad8a55c6565675954abe07fff7d8584ceeb7a89befbd5f",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "monitor_alerts": {
+   "docs": 286,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/monitor_alerts.part001.jsonl.gz",
+     "bytes": 35106,
+     "sha256": "da2d51d0f2de3297e7890d01e54fbd8c10dedab806f92f0b3b802fcab8379a17",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "obligation_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "obligation_relations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "obligations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "p27_continuation_batches": {
+   "docs": 2,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_continuation_batches.part001.jsonl.gz",
+     "bytes": 380,
+     "sha256": "897bb061e6c1c217c8a038fdb4827fad7d22c8c016b0f3be28d37b13cde2a714",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_events": {
+   "docs": 1125,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_continuation_events.part001.jsonl.gz",
+     "bytes": 40536,
+     "sha256": "e180465ef593e1c56c308bc73688a5a6ac9a114d445fec92b17321fe49ad7a5a",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_results": {
+   "docs": 192,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_continuation_results.part001.jsonl.gz",
+     "bytes": 417589,
+     "sha256": "423c8eac29fab452fd6e2bd0d56d25ae5d7c0aaf38fe237ad88878069d15eb91",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_runs": {
+   "docs": 10072,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_continuation_runs.part001.jsonl.gz",
+     "bytes": 2040405,
+     "sha256": "8f71721153aa17385c903c49754a4b4911feccf1c9580575d48b3052b17d1ceb",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_monitor_alerts": {
+   "docs": 62689,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_monitor_alerts.part001.jsonl.gz",
+     "bytes": 2017674,
+     "sha256": "786e48a599bf252afe6ad3d73d16b12ef02179b7f99520f399478bcb8c3d619f",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_proof_audit_runs": {
+   "docs": 141,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_proof_audit_runs.part001.jsonl.gz",
+     "bytes": 330016,
+     "sha256": "75607b9aa57c4a726f04df15eb4f3550b1c5495176c69c2acc18e6d62bdb5563",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_proof_audits": {
+   "docs": 14,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_proof_audits.part001.jsonl.gz",
+     "bytes": 47542,
+     "sha256": "4374e67a75bd150000cf72afd1b33208fd0465a3e913ec7468688841a7bffef8",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_sessions": {
+   "docs": 2131,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_sessions.part001.jsonl.gz",
+     "bytes": 255434,
+     "sha256": "03ed70699261cc2c8844b062279ad5e09230c5074ff30354f1805a67430d48de",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_step_gates": {
+   "docs": 13,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/p27_step_gates.part001.jsonl.gz",
+     "bytes": 8851,
+     "sha256": "dba08055082683f6a97e8da1feb2817c1746df70802010fdbd666c450f014c4e",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "patterns": {
+   "docs": 2820,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/patterns.part001.jsonl.gz",
+     "bytes": 61760,
+     "sha256": "bdb95df3b916b7c3fe37d3d0e7e0d3001128d0be7458f946faed80d4ee2173d1",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "pipe_monitor_alerts": {
+   "docs": 315,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/pipe_monitor_alerts.part001.jsonl.gz",
+     "bytes": 50552,
+     "sha256": "86018bfd252a2afa831a3437374f8893b5092842cbbcb1ef79d956fbf3939bbe",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "problem_entries": {
+   "docs": 15,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/problem_entries.part001.jsonl.gz",
+     "bytes": 2351,
+     "sha256": "23d2b0915ffd07357f152eefc78820f3506672a8048d486e618e98cdadc370c8",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "problem_extraction_progress": {
+   "docs": 2460311,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part001.jsonl.gz",
+     "bytes": 25661533,
+     "sha256": "0b82719caa50fcff4f428eeece42379e63ddf22303f22076ed80cd7e70971d0c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part002.jsonl.gz",
+     "bytes": 28671414,
+     "sha256": "3f08063ce0b6240b86f9fc2dd265f2d6f2e2cb01f498ceebffaf7711c6e8f00e",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part003.jsonl.gz",
+     "bytes": 69189912,
+     "sha256": "fb6025781c40cccdd42baa8baeacc380d5204624a20aa812f76031dce90af9c6",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part004.jsonl.gz",
+     "bytes": 40841604,
+     "sha256": "8091cf81bdcffc1dce38325094a12728a03680642d70a4120dd93b61f04e0ca8",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part005.jsonl.gz",
+     "bytes": 25663400,
+     "sha256": "8d8e615c8ae341da3c524296d6e2569598ab782babf03a08038308322d04a256",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part006.jsonl.gz",
+     "bytes": 70526827,
+     "sha256": "a569cfd11d021ececdee6ef27dad73b459b916a8031619a4dae05b4f1bdd5ca0",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part007.jsonl.gz",
+     "bytes": 92200007,
+     "sha256": "3361aabe51831577a4ec93854203b101dc232bc1c4d6fdf820c6b3cc386555ac",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part008.jsonl.gz",
+     "bytes": 86306783,
+     "sha256": "71526f841b464b3ed49886767ece6d315fa50c49064ec951e3dcd43c581ce44b",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part009.jsonl.gz",
+     "bytes": 87460260,
+     "sha256": "ec501b6bbb4fdc503988a074d7688dbe6b711546b3fe3950050e6e26f486e82a",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part010.jsonl.gz",
+     "bytes": 90882118,
+     "sha256": "b4f67692f0a10e5d422ea184598f73f5bbf0fd05f04ffc43d5f0e2b3dde9b359",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part011.jsonl.gz",
+     "bytes": 50127695,
+     "sha256": "6773f74e56d6d25f680203627eafbef6a28b924795a5613b91487c5b2c366b9b",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part012.jsonl.gz",
+     "bytes": 67761255,
+     "sha256": "b35d8c9d8a2c8108f775a3c828eb5ddbd6278fe156855f2bb4263d0713c1b3c7",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part013.jsonl.gz",
+     "bytes": 89986123,
+     "sha256": "e66c625bd4ec4ce9625ccea4eb4eb5c37875f9fba24b57193f77066a8694b6f6",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part014.jsonl.gz",
+     "bytes": 34164207,
+     "sha256": "4a263f4b2748a5c62eae366f57610bb836e25fed212c3088f23d876b9519e379",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part015.jsonl.gz",
+     "bytes": 67939033,
+     "sha256": "5bbc0d7e91a46b64bc148ccde2443cbde0c21125eb252d620a96122d7c384485",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part016.jsonl.gz",
+     "bytes": 68184696,
+     "sha256": "2e60229d3c24a90f31dd62c36211d01a617e2c35ec7fc077600111ef389961c4",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part017.jsonl.gz",
+     "bytes": 69496557,
+     "sha256": "7be495e947c4f622596acc2d036693cf24d7e7ef1207eeeaaa4ffeeec32db9a5",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part018.jsonl.gz",
+     "bytes": 81589443,
+     "sha256": "d853c60401c649b10cf4a6adbabcc80cb22f1a9f925791ccc3cb43308c72168e",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part019.jsonl.gz",
+     "bytes": 88810319,
+     "sha256": "210e645e240f20fbccbef5fcab221717f48c6d9af1e34c5e437660f85bbd28f7",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part020.jsonl.gz",
+     "bytes": 76118238,
+     "sha256": "37b09bd7e3c54bcbf70b0bf437df9011e8dce986dbafa0792bdb101b5ca74e2b",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part021.jsonl.gz",
+     "bytes": 74424010,
+     "sha256": "a87c00d98b0d40b68009d2666c42747322cabb9f9e5ad975a5ae02cbdbd68f5c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part022.jsonl.gz",
+     "bytes": 48017054,
+     "sha256": "fd9be3aa0f744d263cf7c4454db5f9fe212dfafeb3ef03b853aaf0b5b3750f4c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part023.jsonl.gz",
+     "bytes": 49249296,
+     "sha256": "1ff2cc3a89926caee3a444fde5853811f6c34f40344bc566f4ec5948e5ce7793",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part024.jsonl.gz",
+     "bytes": 49133035,
+     "sha256": "d13147341928f83fa53e4c2c655f5b1b0ff5694b0e0a7df6955e26b0b12ab3d7",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part025.jsonl.gz",
+     "bytes": 49045191,
+     "sha256": "73482be92a24fd68ef1ef16dd5f640f1d225ee2320934a8405ed332b0807cd6c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part026.jsonl.gz",
+     "bytes": 49047468,
+     "sha256": "71fa2d115150fc728c84093ccec88d89a69b9733ce113562094664d521c8e1c0",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part027.jsonl.gz",
+     "bytes": 49518238,
+     "sha256": "8806bb61747d3432a57509a3e3c60f83740ea5fdaaee210f3175cdecc231058f",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part028.jsonl.gz",
+     "bytes": 49728428,
+     "sha256": "2ab507e3b06f71a3d60d3c8a4d2e5528dcc1dab5637f53aeaea964b89b03ae6d",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part029.jsonl.gz",
+     "bytes": 50243904,
+     "sha256": "046a30dd144844104637916b6e95a575be9c1cafa65460a80da671d86ba6c082",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part030.jsonl.gz",
+     "bytes": 95595472,
+     "sha256": "4c378c3cea26363aa666478a3fede1521933250799cbe509d32bf2e7f9cf6aea",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part031.jsonl.gz",
+     "bytes": 48666421,
+     "sha256": "febd307af850c6512f0801cf0deba3b0daed8aaf58468abc3ccb02b9081bab27",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part032.jsonl.gz",
+     "bytes": 49118845,
+     "sha256": "766324d5965c65b470a3781ab2b852e0fe86997653a1e4436f222fe5f7108f2d",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part033.jsonl.gz",
+     "bytes": 49393313,
+     "sha256": "90eb40a46e63fd3504019e447f2f87ea9025031322460d8d1af9e22614697506",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part034.jsonl.gz",
+     "bytes": 49403156,
+     "sha256": "4bedf44c4ca65aad3dc1cd0559246e2afa01c3260c6a3555cadaf8f7ae876d8a",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part035.jsonl.gz",
+     "bytes": 49917498,
+     "sha256": "e7b24b0c43839ec4a876aa9363f4f65829331d6312ef4b33d4a573b5559725c4",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part036.jsonl.gz",
+     "bytes": 50492328,
+     "sha256": "6dfff7af9de7f4720f58aaa67e7eac312c186ecbdec9735ad7b49728bd6f6166",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part037.jsonl.gz",
+     "bytes": 94630244,
+     "sha256": "2e36f1ca92927767dceb3ffa7610dad89bf7af7c362b42cda51e7b5506663630",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part038.jsonl.gz",
+     "bytes": 96152385,
+     "sha256": "d89a5cc840002320d83a170d58c1f7e50218d06fcf830d6e4c841899b9b6e46d",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part039.jsonl.gz",
+     "bytes": 49354251,
+     "sha256": "81fd4cbeb7e55aed40876a8b86a9070aa991d54aa44c56ae5e199dd23faa5109",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part040.jsonl.gz",
+     "bytes": 49537776,
+     "sha256": "af5437362268c20f9f9c8fd09299291b5642a0a036bf59536cd2a2ad55df493f",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part041.jsonl.gz",
+     "bytes": 50589866,
+     "sha256": "d84f7020a844e327855d2898303c1c61c09564816b983d250b670d867a1c5196",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part042.jsonl.gz",
+     "bytes": 51280902,
+     "sha256": "738e9530bbee4356cf523636cee6fc4ab9d65572708292501593746586cd6d6a",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part043.jsonl.gz",
+     "bytes": 92027599,
+     "sha256": "2adedf2862ab5f93e84a3803d8638ad839c80d73212cb734e84404bc236392a5",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part044.jsonl.gz",
+     "bytes": 94857544,
+     "sha256": "0c01e72d1820afede29f235c6f0bec10fcd202545f695bec9adaeb9b4bc9315f",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part045.jsonl.gz",
+     "bytes": 49061483,
+     "sha256": "4ac2ec87d1f79fc643f981f89296dea3683139091459816cbcae831c87d715df",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part046.jsonl.gz",
+     "bytes": 50066115,
+     "sha256": "15ad2fd8f5e893353abb7af431a4ea2b559d097f5723b4df030463954dee3b5c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part047.jsonl.gz",
+     "bytes": 51736347,
+     "sha256": "7370f8c831eb692b997b21e4ddb21a05debfd4574b14853eab30128f64e8a574",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part048.jsonl.gz",
+     "bytes": 52400997,
+     "sha256": "ae75d4753034662f00aa2a3a771f4761ae3f9d0d79edad594240d07a3ef496f4",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part049.jsonl.gz",
+     "bytes": 91908953,
+     "sha256": "3be001e1b3a2df1718f7bbc532569e501a6d01c9859b11821c8ac5baa5d138a8",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part050.jsonl.gz",
+     "bytes": 95991275,
+     "sha256": "d255388c46ed70d58be8fb6f41474732a3049d06f47bf44940a9208d14a107b0",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part051.jsonl.gz",
+     "bytes": 49475755,
+     "sha256": "1e7d3da97fb755d97afa53ee7c8669abef0d46deedda7c0c716eb092ed07208d",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part052.jsonl.gz",
+     "bytes": 49658372,
+     "sha256": "72eb5c192930b33a11d71fe6769c30813f576ec2e22256960c0e6ce49fbb2a17",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part053.jsonl.gz",
+     "bytes": 50468948,
+     "sha256": "7736dc2b8aec4ef0d8035abadbaca37437ebb782883a2c2e82fc6ab31e257b1a",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part054.jsonl.gz",
+     "bytes": 51458467,
+     "sha256": "07c01d61f5fe4c3c4cd266d26d4a9f6043df1744613ef1d45d581cc5ced2fd29",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part055.jsonl.gz",
+     "bytes": 53308741,
+     "sha256": "8d5fd4e4a4478924ab52b9772d16e75673188fde92fc1ed1cb1f07c4a032101c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part056.jsonl.gz",
+     "bytes": 53517740,
+     "sha256": "37e904df2bad38140a5521b7d3f929ddb91651ca14b16a840240df6f413c44a9",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part057.jsonl.gz",
+     "bytes": 30532207,
+     "sha256": "a3cb17b5f15a096f627cb45d7818ed68ef6c486325a5ed899065297b57e1b2f6",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part058.jsonl.gz",
+     "bytes": 50236791,
+     "sha256": "8fb6bee2eda0a4bd87c4d1fe59edea085a653f80e6ec956007cce65035871150",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part059.jsonl.gz",
+     "bytes": 51407106,
+     "sha256": "26cf01ccd67c90e6b2344e2fd71cdf09c8b6d23cab5aa78ffc65923e4ebe2310",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part060.jsonl.gz",
+     "bytes": 53119426,
+     "sha256": "f7bf9a1249bbb30abd9368b661567fac55a44f9c4d2cd065fe97a41f7d919547",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part061.jsonl.gz",
+     "bytes": 59240707,
+     "sha256": "42b74c13e0a6a5e233cfcfb65693d371eed5dd60b6fc3dec0a73dcfdea1b32da",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part062.jsonl.gz",
+     "bytes": 61448319,
+     "sha256": "473861edf4d20c573604ff4d78e8f7988fc2009fabf64783274af1667eaae63d",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part063.jsonl.gz",
+     "bytes": 63678406,
+     "sha256": "6ab43ff6a80520cbb80236221e0355d1385d4434aef587101de81572a9bc47dd",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part064.jsonl.gz",
+     "bytes": 65852720,
+     "sha256": "3c64c6bf83cf69b4b31576364ac9e2c1d9fab734c0a3a5ccd0ccb3db49fa8259",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part065.jsonl.gz",
+     "bytes": 53538863,
+     "sha256": "f40724c83f3c6d5cdf5231c61cfe42aa6c22dcc662283bf6f7143dbef51ccb48",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part066.jsonl.gz",
+     "bytes": 54790814,
+     "sha256": "f09a1ee2d66c405289010c0d7098bf37c91edcc07d3c80d0ab7dff52c6a8b2f2",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part067.jsonl.gz",
+     "bytes": 55889687,
+     "sha256": "7eb2861a481900da77e59b5b32f749c2e358b36476bcac9646f871ec28e7f959",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part068.jsonl.gz",
+     "bytes": 56663870,
+     "sha256": "da552fc3310f388150ede870199a1fa563061a91d9239c5db9ae2082949ac6c7",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part069.jsonl.gz",
+     "bytes": 66042632,
+     "sha256": "f2d360fe8bc7d63b9851e36cc02ee6d34493cde120bc777c1524ed44aac39706",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part070.jsonl.gz",
+     "bytes": 90363723,
+     "sha256": "622cf1a945d33b0a31febebf5c26e71e42f14c88713eb459bbb2d50a60f1a61c",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math_glm52/problem_extraction_progress.part071.jsonl.gz",
+     "bytes": 70981430,
+     "sha256": "bcfcf9522ee1f9a907524e470c00459c4ee6ed84375fca140dae15300a5dc1c6",
+     "gzipped": true
+    }
+   ],
+   "split": true,
+   "note": "全字段导出（含 problem_text/solution_text）；分片按导出轮转+超限递归拆分产生，任意顺序导入等价"
+  },
+  "problem_profiles": {
+   "docs": 456,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/problem_profiles.part001.jsonl.gz",
+     "bytes": 1694660,
+     "sha256": "bc6db4539943ffc60ef5756f335daef7e9aefbb3786b344ed7b9a3a087bb2415",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "problem_queue": {
+   "docs": 3,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/problem_queue.part001.jsonl.gz",
+     "bytes": 653,
+     "sha256": "fbbc78ca420976834efb16304285c0013a2fe6234ace2aeb3a5f6212b5094a61",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "problems": {
+   "docs": 30,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/problems.part001.jsonl.gz",
+     "bytes": 5498,
+     "sha256": "55497c59ff4a9e09912c398f52d5ea45f70ed9cf487ca6733c2a63f003bdf680",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "prompts": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "raw_events": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "run_manifests": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "selection_batches": {
+   "docs": 5,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/selection_batches.part001.jsonl.gz",
+     "bytes": 534,
+     "sha256": "53df4d90806d6543149d5ba453148a4fa6085575a280728ad9e826e0c2412c9e",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "selection_results": {
+   "docs": 724,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/selection_results.part001.jsonl.gz",
+     "bytes": 106725,
+     "sha256": "724c2d963d7d4403f0d036497a260df5933bdb9ad1e45f11dcbc34b54b1e21a3",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "selection_runs": {
+   "docs": 724,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/selection_runs.part001.jsonl.gz",
+     "bytes": 50251,
+     "sha256": "0708aad9d6aefb40f78a90af87e72caf58cee61d7a80e4afc97052cfcaff3671",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "semantic_events": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "sessions": {
+   "docs": 17,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/sessions.part001.jsonl.gz",
+     "bytes": 837,
+     "sha256": "82fdb190a676b37efd5f9a76ab075539c54c54479f0c1aa011f48c10ced72f34",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "solver_batches": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/solver_batches.part001.jsonl.gz",
+     "bytes": 317,
+     "sha256": "0df3c564d2e1340e9eaa539228aa3f870ca663201dacfdca97fb0fde734b55ab",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "solver_results": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "solver_runs": {
+   "docs": 1,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/solver_runs.part001.jsonl.gz",
+     "bytes": 376,
+     "sha256": "3367f7f18e33b0b0c9fced4baf69494bda6db7b26abe6eae390bf92652198870",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "stall_annotations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "subjects": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "tree_edges": {
+   "docs": 231,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/tree_edges.part001.jsonl.gz",
+     "bytes": 12040,
+     "sha256": "c3f3d10dac172a89f16b31f8823147efb2b3aa0593d796ef90094e7ce8f97073",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "tree_nodes": {
+   "docs": 261,
+   "files": [
+    {
+     "file": "xishujuzhen_math_glm52/tree_nodes.part001.jsonl.gz",
+     "bytes": 42030,
+     "sha256": "ed9ee7aaf00da8de4b05a1d865899eedb569fdb8f7500fde74a147230cb94949",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "uf_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "uf_nodes": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "ut_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "ut_nodes": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "workspaces": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  }
+ },
+ "xishujuzhen_math": {
+  "analyses": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "arxiv_papers": {
+   "docs": 239472,
+   "files": [
+    {
+     "file": "xishujuzhen_math/arxiv_papers.part001.a.jsonl.gz",
+     "bytes": 47088331,
+     "sha256": "0be45b2a27b46260a9e6338041c570bc8ad11c02cc02698aa65c33921cce9aef",
+     "gzipped": true
+    },
+    {
+     "file": "xishujuzhen_math/arxiv_papers.part001.b.jsonl.gz",
+     "bytes": 62600382,
+     "sha256": "5df668a96788fbf6a9ffcce45976af1426870ca84caaaec89daad2d4a7a470ca",
+     "gzipped": true
+    }
+   ],
+   "split": true
+  },
+  "audits": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "checkpoints": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "cog_edges": {
+   "docs": 59,
+   "files": [
+    {
+     "file": "xishujuzhen_math/cog_edges.part001.jsonl.gz",
+     "bytes": 1887,
+     "sha256": "b7cd396a3ee061d388629ed832e59e06fec99554ecc0c5812bc5a92fb7ab6eda",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cog_version_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "cog_versions": {
+   "docs": 53,
+   "files": [
+    {
+     "file": "xishujuzhen_math/cog_versions.part001.jsonl.gz",
+     "bytes": 2874,
+     "sha256": "b246201e519a1e5910f4bbb48fecd38da4ae6fc0c4836107ec6ddd0aa80a2553",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cognition_audit_log": {
+   "docs": 2,
+   "files": [
+    {
+     "file": "xishujuzhen_math/cognition_audit_log.part001.jsonl.gz",
+     "bytes": 977,
+     "sha256": "f205cc1cdcbbcb740097f491f0f8753624ecee591f6d8eb6a597ae0ca684c494",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cognition_tasks": {
+   "docs": 5,
+   "files": [
+    {
+     "file": "xishujuzhen_math/cognition_tasks.part001.jsonl.gz",
+     "bytes": 1217,
+     "sha256": "a0970333fa4a5865dc0ae568b5d594d6520e6af1c9655723ed4a96cc7f9075ec",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "cognition_units": {
+   "docs": 37,
+   "files": [
+    {
+     "file": "xishujuzhen_math/cognition_units.part001.jsonl.gz",
+     "bytes": 6748,
+     "sha256": "aaa75e9d4161adcc003aaf1172108801cf85524a0cac2fdd46e6fdfaaafcf417",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dg_edges": {
+   "docs": 1483,
+   "files": [
+    {
+     "file": "xishujuzhen_math/dg_edges.part001.jsonl.gz",
+     "bytes": 44102,
+     "sha256": "c21ebe345c97def5bc2d2788f630106c3666c12d12cda73b7a056d6887fd7ea0",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "dg_nodes": {
+   "docs": 1719,
+   "files": [
+    {
+     "file": "xishujuzhen_math/dg_nodes.part001.jsonl.gz",
+     "bytes": 75323,
+     "sha256": "5c81326c18da7fb1e3df27a5c289aaad46e1bf16991e0a2907ae37f7a1ff88f9",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "evidence": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "kcs": {
+   "docs": 18,
+   "files": [
+    {
+     "file": "xishujuzhen_math/kcs.part001.jsonl.gz",
+     "bytes": 1870,
+     "sha256": "461d0dd712cb5214b4f850b625166f1663e136815dbc098cde47ab318e444b3c",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "loops": {
+   "docs": 4,
+   "files": [
+    {
+     "file": "xishujuzhen_math/loops.part001.jsonl.gz",
+     "bytes": 446,
+     "sha256": "4d1463461d6802021a89ed0f4ed55d153f37329c94fecf5b080e1ccf67bc0b1d",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "obligation_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "obligation_relations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "obligations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "problems": {
+   "docs": 60,
+   "files": [
+    {
+     "file": "xishujuzhen_math/problems.part001.jsonl.gz",
+     "bytes": 8624,
+     "sha256": "66b43e701eada368602b36de92f6fc20500740a3d27499d70f1c1de3e176d145",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "prompts": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "raw_events": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "run_manifests": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "semantic_events": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "solutions": {
+   "docs": 159,
+   "files": [
+    {
+     "file": "xishujuzhen_math/solutions.part001.jsonl.gz",
+     "bytes": 68369,
+     "sha256": "61377dfb31897ac0dabf2cd21e18edfdaf9ef1920df0013c697fc2276166e150",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "stall_annotations": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "subjects": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "uf_edges": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "uf_nodes": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  },
+  "ut_edges": {
+   "docs": 1211,
+   "files": [
+    {
+     "file": "xishujuzhen_math/ut_edges.part001.jsonl.gz",
+     "bytes": 51141,
+     "sha256": "e2fd212f6a7f26c9021a11529cab441ebdeda90410b775e389600c3f96b37363",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "ut_nodes": {
+   "docs": 1709,
+   "files": [
+    {
+     "file": "xishujuzhen_math/ut_nodes.part001.jsonl.gz",
+     "bytes": 70532,
+     "sha256": "e0c8a568a8e3343b1319f89b5ace2bd946008317aee5da40ae912321e8df1dd5",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "workspaces": {
+   "docs": 0,
+   "files": [],
+   "split": false
+  }
+ },
+ "p27sim": {
+  "p27_continuation_batches": {
+   "docs": 14,
+   "files": [
+    {
+     "file": "p27sim/p27_continuation_batches.part001.jsonl.gz",
+     "bytes": 1190,
+     "sha256": "61912196f011384626c66a6bf30b6d046c36ce8b19feb7a7a3499e835e856326",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_events": {
+   "docs": 86,
+   "files": [
+    {
+     "file": "p27sim/p27_continuation_events.part001.jsonl.gz",
+     "bytes": 3436,
+     "sha256": "5bb3f44fcd75c7e2191175925040aab22f1d9e3ca2ae6a0e3e65ec2d3c86ec7f",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_results": {
+   "docs": 7,
+   "files": [
+    {
+     "file": "p27sim/p27_continuation_results.part001.jsonl.gz",
+     "bytes": 961,
+     "sha256": "415579702e0f80240a4627c1be05b797be99768672d6ac08b53b7675e94fc079",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_continuation_runs": {
+   "docs": 23,
+   "files": [
+    {
+     "file": "p27sim/p27_continuation_runs.part001.jsonl.gz",
+     "bytes": 4783,
+     "sha256": "124db20593278bda3bbecb35cecde90d53763519e1322e1000d1185874735ce2",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_sessions": {
+   "docs": 87,
+   "files": [
+    {
+     "file": "p27sim/p27_sessions.part001.jsonl.gz",
+     "bytes": 5026,
+     "sha256": "0bafd0b2eee53a8c5e12f27e6f06f43203fa18a49dde5f4c89049810bed2291c",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  },
+  "p27_step_gates": {
+   "docs": 13,
+   "files": [
+    {
+     "file": "p27sim/p27_step_gates.part001.jsonl.gz",
+     "bytes": 9004,
+     "sha256": "ea60d4e36d4b1168c9b92227fc23d3cd6835211608b9dd94809d5be6a7b81170",
+     "gzipped": true
+    }
+   ],
+   "split": false
+  }
+ },
+ "_manifest_note": "sha256/bytes 描述当前发布文件（导出时已应用路径中性化：glm5.2-math-worktree系列→公开repo名/中性名、/Users/user→/Users/user、/Volumes/data→/Volumes/data）。docs 为实际写入行数。problem_extraction_progress 为全字段导出（含 problem_text/solution_text）。",
+ "_substitutions": [
+  {
+   "from": "AI-Math-Competition-Problem-Solving-System",
+   "to": "AI-Math-Competition-Problem-Solving-System"
+  },
+  {
+   "from": "glm5.2-math-worktree",
+   "to": "glm5.2-math-worktree"
+  },
+  {
+   "from": "AI-Math-Normal-Solver",
+   "to": "AI-Math-Normal-Solver"
+  },
+  {
+   "from": "/Users/user",
+   "to": "/Users/user"
+  },
+  {
+   "from": "user",
+   "to": "user"
+  },
+  {
+   "from": "/Volumes/data",
+   "to": "/Volumes/data"
+  },
+  {
+   "from": "glm5.2-math-worktree",
+   "to": "glm5.2-math-worktree"
+  }
+ ]
+}
