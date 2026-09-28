@@ -138,11 +138,30 @@ python scripts/restore_arangodb_dump.py --host http://localhost:8529 \
 
 ## Data Licensing（数据许可）
 
-- 仓库中的**脚本与文档**为 MIT（见 LICENSE）。
-- **题目与解答数据**来自各上游开源数据集，再分发遵循其原始许可：
-  Omni-MATH = Apache-2.0；ODA-Math-460k = CC-BY-NC-4.0（非商业）；DeepMath-103K 及其余
-  数据集的许可以上游页面为准（`problem-bank-catalogs/` 目录的 `license` 字段有记录，为 null 者
-  请查上游 repo）。本仓库族为**非商业研究归档**用途，使用数据请遵守对应上游许可并署名。
+- 仓库中的**脚本与文档**为 MIT（见 LICENSE）；**MIT 不覆盖数据**。
+- **题目/解答数据遵循各上游数据集许可**。下表为实际持有正文的数据集（28 个中的主要者，
+  按文档量排序，许可已于 2026-09-28 逐一核实）：
+
+| 数据集（库内 source_dataset） | 文档数 | 上游 | 许可 | 再分发状态 |
+|---|---|---|---|---|
+| openmath_reasoning | 724,666 | nvidia/OpenMathReasoning | CC-BY-4.0 | ✓ 署名即可 |
+| **aops_instruct** | **538,954** | DeepStudentLlama/AoPS-Instruct | **未标注**（论坛爬取内容，AoPS 站点条款适用） | ⚠️ 见下方风险披露 |
+| openr1_math_raw | 515,928 | open-r1/OpenR1-Math | Apache-2.0 | ✓ |
+| numina_math_15/lean/hard200k | 414,032 | AI-MO/NuminaMath | Apache-2.0 | ✓ |
+| oda_math_460k | 65,615 | OpenDataArena/ODA-Math-460k | CC-BY-NC-4.0 | ✓ 非商业+署名 |
+| dart_math_hard | 44,194 | hkust-nlp/dart-math-hard | 未确认（派生自 GSM8K/MATH） | ⚠️ |
+| deepmath_103k | 32,392 | zwhe99/DeepMath-103K | MIT | ✓ |
+| mathnet | 27,817 | MathNet 系 | CC-BY-4.0 | ✓ |
+| mathvision | 3,344 | MathLLMs/MathVision | MIT | ✓ |
+| bluemo | 1,812 | math-ai/BlueMO | CC-BY-ND-4.0 | ✓ 原样再分发（未修改） |
+| matholympiadbench | 360 | Goedel-LM/MathOlympiadBench | Apache-2.0 | ✓ |
+| 其余 17 个小数据集 | ~25k | 见 problem-bank-catalogs | 目录 license 字段/上游页 | 逐自查证 |
+
+- **⚠️ 风险披露**：`aops_instruct`（占正文 22%）上游数据集未附许可证，内容源自 AoPS 论坛
+  爬取（用户贡献内容，受 AoPS 站点条款约束）——法律再分发地位不明确。本仓库以**研究归档
+  + 署名 + 可溯源**方式保留该子集（与社区基准镜像的通行做法一致）；商业使用请自行评估或
+  联系上游作者。`dart_math_hard` 许可未确认（派生链含 GSM8K），同样按署名研究用途保留。
+- 本仓库族整体为**非商业研究归档**用途；使用数据请遵守对应上游许可并署名。
 
 ## License
 
