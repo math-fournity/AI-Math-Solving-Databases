@@ -155,7 +155,26 @@ python scripts/restore_arangodb_dump.py --host http://localhost:8529 \
 | mathvision | 3,344 | MathLLMs/MathVision | MIT | ✓ |
 | bluemo | 1,812 | math-ai/BlueMO | CC-BY-ND-4.0 | ✓ 原样再分发（未修改） |
 | matholympiadbench | 360 | Goedel-LM/MathOlympiadBench | Apache-2.0 | ✓ |
-| 其余 17 个小数据集 | ~25k | 见 problem-bank-catalogs | 目录 license 字段/上游页 | 逐自查证 |
+| 其余小数据集 | ~7k | 见下方覆盖矩阵 | 各异 | 见矩阵 |
+
+### 数据集覆盖矩阵（下载全集 vs 库内全集，2026-09-28 实测）
+
+原始下载目录 27 个数据集与库内 `source_dataset` 的对应关系：
+
+- **26 个下载成功且全部入库**（题文本体在本仓库 dumps 中）：OpenMathReasoning、
+  AoPS-Instruct、OpenR1-Math-Raw、NuminaMath-1.5/LEAN/Hard-200k、ODA-Math-460k、
+  DART-Math-Hard、DeepMath-103K、Lean-Workbook、PolyMath、OlympiadBench-official、
+  FineProofs-RL、Omni-MATH-2、MathVision、BlueMO、formal-conjectures、PutnamBench、
+  MathArena(含new)、MathOlympiadBench、OlymMATH、gaokao、math-contests-2026、ucmo、
+  anti-guessing-olympiad、AMO-Bench。
+- **1 个下载失败**：LiveMathBench（目录仅剩 12KB 下载锁残留，无任何数据，未入库）——
+  如需使用按上游 https://huggingface.co/datasets/Duxiaoman-DI/LiveMathBench 自取。
+- **库内另有 13 个早期世代来源**（先于下载目录约定、经 KNOWLEDGE_BASE 等路径摄入，
+  本体同样在 dumps 中）：numina_math(31,427)、mathnet(27,817)、omni_math(2,569)、
+  compfiles(507)、fate(380)、minif2f(67)、aime(21)、hendrycks_math(2) 等小项。
+
+结论：**凡下载成功的数据集，其题目本体 100% 在本仓库数据表内**；库内还包含早期
+摄入的额外来源。
 
 - **⚠️ 风险披露**：`aops_instruct`（占正文 22%）上游数据集未附许可证，内容源自 AoPS 论坛
   爬取（用户贡献内容，受 AoPS 站点条款约束）——法律再分发地位不明确。本仓库以**研究归档
