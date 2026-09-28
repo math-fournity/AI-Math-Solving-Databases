@@ -1535,35 +1535,5 @@
    "split": false
   }
  },
- "_manifest_note": "sha256/bytes 描述当前发布文件（导出时已应用路径中性化：glm5.2-math-worktree系列→公开repo名/中性名、/Users/user→/Users/user、/Volumes/data→/Volumes/data）。docs 为实际写入行数。problem_extraction_progress 为全字段导出（含 problem_text/solution_text）。",
- "_substitutions": [
-  {
-   "from": "AI-Math-Competition-Problem-Solving-System",
-   "to": "AI-Math-Competition-Problem-Solving-System"
-  },
-  {
-   "from": "glm5.2-math-worktree",
-   "to": "glm5.2-math-worktree"
-  },
-  {
-   "from": "AI-Math-Normal-Solver",
-   "to": "AI-Math-Normal-Solver"
-  },
-  {
-   "from": "/Users/user",
-   "to": "/Users/user"
-  },
-  {
-   "from": "user",
-   "to": "user"
-  },
-  {
-   "from": "/Volumes/data",
-   "to": "/Volumes/data"
-  },
-  {
-   "from": "glm5.2-math-worktree",
-   "to": "glm5.2-math-worktree"
-  }
- ]
+ "_manifest_note": "sha256/bytes 描述当前发布文件。导出时已应用路径中性化（原始私有目录名/真实用户名/原始卷路径→中性前缀）；具体映射表由原作者离线持有（git-backups bundle），公开侧不内嵌原始字符串。docs 为实际写入行数；problem_extraction_progress 为全字段导出（含 problem_text/solution_text）。"
 }
